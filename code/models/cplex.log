@@ -1,0 +1,818 @@
+
+Log started (V12.9.0.0) Tue Feb  8 20:30:57 2022
+
+
+Problem 'RescheduleFixture_min_diff.lp' read.
+Read time = 0.02 sec. (0.03 ticks)
+
+Refine conflict on 397 members...
+
+ Iteration  Max Members  Min Members
+         1          348            0
+         2          342            0
+         3          341            0
+         4          298            0
+         5          277            0
+         6          267            0
+         7          262            0
+         8          259            0
+         9          258            0
+        10            2            0
+        11            2            1
+        12            2            2
+
+Minimal conflict:    2 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.05 sec.  Iterations = 12
+Deterministic time = 0.86 ticks  (18.79 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Log started (V12.9.0.0) Wed Feb  9 10:43:04 2022
+
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.03 sec. (0.80 ticks)
+
+Refine conflict on 11575 members...
+
+ Iteration  Max Members  Min Members
+         1        11485            0
+         2        11463            0
+         3        11452            0
+         4        11451            0
+         5         5726            0
+         6         2864            0
+         7         1433            0
+         8          718            0
+         9          629            0
+        10          607            0
+        11          602            0
+        12          599            0
+        13            3            0
+        14            3            1
+        15            3            2
+        16            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.19 sec.  Iterations = 16
+Deterministic time = 32.43 ticks  (172.47 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.02 ticks)
+
+Refine conflict on 343 members...
+
+ Iteration  Max Members  Min Members
+         1          258            0
+         2          237            0
+         3          226            0
+         4          221            0
+         5          220            0
+         6          111            0
+         7           84            0
+         8           81            0
+         9           80            0
+        10            3            0
+        11            3            1
+        12            3            2
+        13            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.01 sec.  Iterations = 13
+Deterministic time = 1.12 ticks  (74.37 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.02 ticks)
+
+Refine conflict on 343 members...
+
+ Iteration  Max Members  Min Members
+         1          258            0
+         2          237            0
+         3          226            0
+         4          221            0
+         5          220            0
+         6          111            0
+         7           84            0
+         8           81            0
+         9           80            0
+        10            3            0
+        11            3            1
+        12            3            2
+        13            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.03 sec.  Iterations = 13
+Deterministic time = 1.12 ticks  (35.99 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.02 ticks)
+
+Refine conflict on 362 members...
+
+ Iteration  Max Members  Min Members
+         1          272            0
+         2          261            0
+         3          259            0
+         4          243            0
+         5          235            0
+         6          231            0
+         7          229            0
+         8            3            0
+         9            3            1
+        10            3            2
+        11            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.01 sec.  Iterations = 11
+Deterministic time = 1.15 ticks  (76.72 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.03 ticks)
+
+Refine conflict on 452 members...
+
+ Iteration  Max Members  Min Members
+         1          339            0
+         2          311            0
+         3          297            0
+         4          294            0
+         5          292            0
+         6          147            0
+         7          111            0
+         8          102            0
+         9           98            0
+        10           96            0
+        11           95            0
+        12            3            0
+        13            3            1
+        14            3            2
+        15            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 15
+Deterministic time = 1.50 ticks  (93.89 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.03 ticks)
+
+Refine conflict on 452 members...
+
+ Iteration  Max Members  Min Members
+         1          339            0
+         2          311            0
+         3          297            0
+         4          294            0
+         5          292            0
+         6          147            0
+         7          111            0
+         8          102            0
+         9           98            0
+        10           96            0
+        11           95            0
+        12            3            0
+        13            3            1
+        14            3            2
+        15            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 15
+Deterministic time = 1.50 ticks  (93.89 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.04 ticks)
+
+Refine conflict on 642 members...
+
+ Iteration  Max Members  Min Members
+         1          482            0
+         2          442            0
+         3          422            0
+         4          420            0
+         5          419            0
+         6          210            0
+         7          158            0
+         8          132            0
+         9          129            0
+        10            3            0
+        11            3            1
+        12            3            2
+        13            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 13
+Deterministic time = 2.18 ticks  (136.40 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.06 ticks)
+
+Refine conflict on 1067 members...
+
+ Iteration  Max Members  Min Members
+         1         1059            0
+         2         1057            0
+         3          529            0
+         4          266            0
+         5          134            0
+         6           68            0
+         7            3            0
+         8            3            1
+         9            3            2
+        10            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.03 sec.  Iterations = 10
+Deterministic time = 2.92 ticks  (94.33 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.02 sec. (0.10 ticks)
+
+Refine conflict on 1623 members...
+
+ Iteration  Max Members  Min Members
+         1         1611            0
+         2         1605            0
+         3          804            0
+         4          403            0
+         5          203            0
+         6          153            0
+         7          128            0
+         8          116            0
+         9            3            0
+        10            3            1
+        11            3            2
+        12            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.03 sec.  Iterations = 12
+Deterministic time = 4.57 ticks  (147.56 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.10 ticks)
+
+Refine conflict on 1623 members...
+
+ Iteration  Max Members  Min Members
+         1         1611            0
+         2         1605            0
+         3          804            0
+         4          403            0
+         5          203            0
+         6          153            0
+         7          128            0
+         8          116            0
+         9            3            0
+        10            3            1
+        11            3            2
+        12            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.03 sec.  Iterations = 12
+Deterministic time = 4.57 ticks  (147.56 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.02 sec. (0.11 ticks)
+
+Refine conflict on 1697 members...
+
+ Iteration  Max Members  Min Members
+         1         1684            0
+         2         1681            0
+         3         1680            0
+         4          841            0
+         5          422            0
+         6          212            0
+         7          160            0
+         8          134            0
+         9          128            0
+        10          125            0
+        11            3            0
+        12            3            1
+        13            3            2
+        14            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.03 sec.  Iterations = 14
+Deterministic time = 4.81 ticks  (155.20 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.02 sec. (0.06 ticks)
+
+Refine conflict on 956 members...
+
+ Iteration  Max Members  Min Members
+         1          953            0
+         2          951            0
+         3          950            0
+         4            3            0
+         5            3            1
+         6            3            2
+         7            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.05 sec.  Iterations = 7
+Deterministic time = 25.77 ticks  (548.27 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.00 ticks)
+Problem is feasible; no conflict available.
+Problem is feasible; no conflict available.
+
+Problem 'RescheduleFixture_min_diff.lp' read.
+Read time = 0.03 sec. (0.41 ticks)
+
+Refine conflict on 5848 members...
+
+ Iteration  Max Members  Min Members
+         1         5803            0
+         2         5792            0
+         3         5786            0
+         4         5785            0
+         5         2894            0
+         6         1448            0
+         7         1087            0
+         8          906            0
+         9          884            0
+        10          882            0
+        11            3            0
+        12            3            1
+        13            3            2
+        14            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.23 sec.  Iterations = 14
+Deterministic time = 182.01 ticks  (777.82 ticks/sec)
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.00 sec.  Iterations = 14
+Deterministic time = 0.06 ticks  (56.18 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_min_diff.lp' read.
+Read time = 0.01 sec. (0.40 ticks)
+
+Refine conflict on 5832 members...
+
+ Iteration  Max Members  Min Members
+         1         5787            0
+         2         5785            0
+         3         2894            0
+         4         1448            0
+         5         1087            0
+         6          906            0
+         7          884            0
+         8          882            0
+         9            3            0
+        10            3            1
+        11            3            2
+        12            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.22 sec.  Iterations = 12
+Deterministic time = 177.91 ticks  (812.36 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Log started (V12.9.0.0) Tue Feb 22 10:56:48 2022
+
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.33 sec. (3.61 ticks)
+
+Refine conflict on 15357 members...
+
+ Iteration  Max Members  Min Members
+         1        15118            0
+         2        15058            0
+         3        15028            0
+         4        15013            0
+         5        15006            0
+         6        13130            0
+         7        12192            0
+         8        11958            0
+         9        11841            0
+        10        11834            0
+        11        11831            0
+        12        11829            0
+        13         5925            0
+        14         2974            0
+        15         1498            0
+        16          760            0
+        17          391            0
+        18          207            0
+        19          115            0
+        20           69            0
+        21           64            0
+        22           63            0
+        23           23            0
+        24           23            1
+        25           23            2
+        26           23            3
+        27           23            4
+        28           23            5
+        29           23            6
+        30           23            7
+        31           23            8
+        32           23            9
+        33           23           10
+        34           23           11
+        35           23           12
+        36           23           13
+        37           23           14
+        38           23           15
+        39           23           16
+        40           23           17
+        41           23           18
+        42           23           19
+        43           23           20
+        44           23           21
+        45           23           22
+        46           23           23
+
+Minimal conflict:   22 linear constraint(s)
+                     0 lower bound(s)
+                     1 upper bound(s)
+Conflict computation time =    9.09 sec.  Iterations = 46
+Deterministic time = 11395.85 ticks  (1253.12 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.02 sec. (0.16 ticks)
+
+Log started (V12.9.0.0) Wed Feb 23 11:26:34 2022
+
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.01 sec. (0.08 ticks)
+
+Refine conflict on 1224 members...
+
+ Iteration  Max Members  Min Members
+         1          918            0
+         2          842            0
+         3          804            0
+         4          785            0
+         5          775            0
+         6          770            0
+         7          768            0
+         8          577            0
+         9          481            0
+        10          457            0
+        11          445            0
+        12          439            0
+        13          436            0
+        14          435            0
+        15          428            0
+        16            3            0
+        17            3            1
+        18            3            2
+        19            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.05 sec.  Iterations = 19
+Deterministic time = 3.35 ticks  (72.78 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.00 sec. (0.08 ticks)
+
+Refine conflict on 1232 members...
+
+ Iteration  Max Members  Min Members
+         1          924            0
+         2          847            0
+         3          838            0
+         4          836            0
+         5          835            0
+         6          626            0
+         7          522            0
+         8          470            0
+         9          457            0
+        10          451            0
+        11          450            0
+        12          443            0
+        13            3            0
+        14            3            1
+        15            3            2
+        16            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.03 sec.  Iterations = 16
+Deterministic time = 3.39 ticks  (109.24 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.01 sec. (0.09 ticks)
+
+Refine conflict on 1352 members...
+
+ Iteration  Max Members  Min Members
+         1          676            0
+         2          507            0
+         3          465            0
+         4          461            0
+         5          459            0
+         6          344            0
+         7          330            0
+         8          327            0
+         9          325            0
+        10            3            0
+        11            3            1
+        12            3            2
+        13            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 13
+Deterministic time = 3.59 ticks  (224.37 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.02 sec. (0.10 ticks)
+
+Refine conflict on 1372 members...
+
+ Iteration  Max Members  Min Members
+         1          686            0
+         2          515            0
+         3          505            0
+         4          497            0
+         5          374            0
+         6          343            0
+         7          328            0
+         8          324            0
+         9            3            0
+        10            3            1
+        11            3            2
+        12            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 12
+Deterministic time = 3.78 ticks  (236.37 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Log started (V12.9.0.0) Wed Feb 23 23:44:45 2022
+
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.03 sec. (0.49 ticks)
+
+Refine conflict on 6666 members...
+
+ Iteration  Max Members  Min Members
+         1         5833            0
+         2         5417            0
+         3         5209            0
+         4         5183            0
+         5         5170            0
+         6         5164            0
+         7         5161            0
+         8         5141            0
+         9         5139            0
+        10         2572            0
+        11         1289            0
+        12         1129            0
+        13         1049            0
+        14         1047            0
+        15            6            0
+        16            6            1
+        17            6            2
+        18            6            3
+        19            6            4
+        20            6            5
+        21            6            6
+
+Minimal conflict:    6 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.63 sec.  Iterations = 21
+Deterministic time = 578.57 ticks  (925.72 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.02 sec. (0.27 ticks)
+
+Refine conflict on 3555 members...
+
+ Iteration  Max Members  Min Members
+         1         3528            0
+         2         3514            0
+         3         3507            0
+         4         3506            0
+         5         3505            0
+         6         3501            0
+         7         2627            0
+         8         2190            0
+         9         2081            0
+        10         2054            0
+        11         1030            0
+        12         1014            0
+        13         1006            0
+        14         1002            0
+        15            6            0
+        16            6            1
+        17            6            2
+        18            6            3
+        19            6            4
+        20            6            5
+        21            6            6
+
+Minimal conflict:    6 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.25 sec.  Iterations = 21
+Deterministic time = 279.43 ticks  (1117.74 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.02 sec. (0.21 ticks)
+
+Refine conflict on 2772 members...
+
+ Iteration  Max Members  Min Members
+         1         1386            0
+         2         1300            0
+         3         1279            0
+         4         1268            0
+         5         1248            0
+         6         1246            0
+         7         1245            0
+         8          625            0
+         9          616            0
+        10          611            0
+        11            6            0
+        12            6            1
+        13            6            2
+        14            6            3
+        15            6            4
+        16            6            5
+        17            6            6
+
+Minimal conflict:    6 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.17 sec.  Iterations = 17
+Deterministic time = 201.61 ticks  (1172.17 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_balanced.lp' read.
+Read time = 0.00 sec. (0.00 ticks)
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.00 sec. (0.05 ticks)
+
+Refine conflict on 941 members...
+
+ Iteration  Max Members  Min Members
+         1          912            0
+         2          905            0
+         3          904            0
+         4          453            0
+         5          228            0
+         6          221            0
+         7          220            0
+         8            3            0
+         9            3            1
+        10            3            2
+        11            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 11
+Deterministic time = 2.64 ticks  (164.81 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.02 sec. (0.05 ticks)
+
+Refine conflict on 941 members...
+
+ Iteration  Max Members  Min Members
+         1          912            0
+         2          905            0
+         3          904            0
+         4          453            0
+         5          228            0
+         6          221            0
+         7          220            0
+         8            3            0
+         9            3            1
+        10            3            2
+        11            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.02 sec.  Iterations = 11
+Deterministic time = 2.64 ticks  (164.81 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.
+
+Log started (V12.9.0.0) Tue Mar  1 14:52:23 2022
+
+
+Problem 'RescheduleFixture_basic.lp' read.
+Read time = 0.02 sec. (0.10 ticks)
+
+Refine conflict on 1589 members...
+
+ Iteration  Max Members  Min Members
+         1         1540            0
+         2         1515            0
+         3         1512            0
+         4         1511            0
+         5         1508            0
+         6         1132            0
+         7          944            0
+         8          850            0
+         9          803            0
+        10          779            0
+        11          767            0
+        12          764            0
+        13          763            0
+        14            3            0
+        15            3            1
+        16            3            2
+        17            3            3
+
+Minimal conflict:    3 linear constraint(s)
+                     0 lower bound(s)
+                     0 upper bound(s)
+Conflict computation time =    0.06 sec.  Iterations = 17
+Deterministic time = 4.57 ticks  (72.58 ticks/sec)
+
+Minimal conflict written to file 'output.clp'.

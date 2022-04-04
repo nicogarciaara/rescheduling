@@ -1,0 +1,62 @@
+﻿team,home_reschedule,away_reschedule,reschedules,League
+Atlanta Hawks,0.0,1.0,1.0,NBA
+Boston Celtics,1.0,1.0,1.0,NBA
+Brooklyn Nets,0.0,1.0,1.0,NBA
+Charlotte Hornets,1.0,0.0,1.0,NBA
+Chicago Bulls,1.0,1.0,1.0,NBA
+Cleveland Cavaliers,1.0,1.0,1.0,NBA
+Dallas Mavericks,1.0,1.0,1.0,NBA
+Denver Nuggets,1.0,1.0,1.0,NBA
+Detroit Pistons,1.0,1.0,1.0,NBA
+Golden State Warriors,0.0,1.0,1.0,NBA
+Houston Rockets,1.0,0.0,1.0,NBA
+Indiana Pacers,1.0,1.0,1.0,NBA
+Los Angeles Clippers,0.0,0.0,0.0,NBA
+Los Angeles Lakers,0.0,0.0,0.0,NBA
+Memphis Grizzlies,1.0,1.0,1.0,NBA
+Miami Heat,0.0,1.0,1.0,NBA
+Milwaukee Bucks,1.0,0.0,1.0,NBA
+Minnesota Timberwolves,1.0,0.0,1.0,NBA
+New Orleans Pelicans,1.0,1.0,1.0,NBA
+New York Knicks,1.0,0.0,1.0,NBA
+Oklahoma City Thunder,1.0,1.0,1.0,NBA
+Orlando Magic,0.0,1.0,1.0,NBA
+Philadelphia 76ers,0.0,1.0,1.0,NBA
+Phoenix Suns,1.0,0.0,1.0,NBA
+Portland Trail Blazers,1.0,0.0,1.0,NBA
+Sacramento Kings,0.0,1.0,1.0,NBA
+San Antonio Spurs,0.0,1.0,1.0,NBA
+Toronto Raptors,1.0,0.0,1.0,NBA
+Utah Jazz,0.0,1.0,1.0,NBA
+Washington Wizards,1.0,1.0,1.0,NBA
+Anaheim Ducks,1.0,1.0,1.0,NHL
+Arizona Coyotes,1.0,1.0,1.0,NHL
+Boston Bruins,1.0,1.0,1.0,NHL
+Buffalo Sabres,1.0,1.0,1.0,NHL
+Calgary Flames,1.0,0.0,1.0,NHL
+Carolina Hurricanes,1.0,1.0,1.0,NHL
+Chicago Blackhawks,1.0,1.0,1.0,NHL
+Colorado Avalanche,1.0,1.0,1.0,NHL
+Columbus Blue Jackets,1.0,0.0,1.0,NHL
+Dallas Stars,1.0,1.0,1.0,NHL
+Detroit Red Wings,0.0,0.0,0.0,NHL
+Edmonton Oilers,1.0,1.0,1.0,NHL
+Florida Panthers,1.0,1.0,1.0,NHL
+Los Angeles Kings,1.0,1.0,1.0,NHL
+Minnesota Wild,1.0,1.0,1.0,NHL
+Montreal Canadiens,1.0,0.0,1.0,NHL
+Nashville Predators,1.0,1.0,1.0,NHL
+New Jersey Devils,1.0,1.0,1.0,NHL
+New York Islanders,1.0,1.0,1.0,NHL
+New York Rangers,1.0,1.0,1.0,NHL
+Ottawa Senators,1.0,1.0,1.0,NHL
+Philadelphia Flyers,1.0,1.0,1.0,NHL
+Pittsburgh Penguins,1.0,1.0,1.0,NHL
+San Jose Sharks,1.0,0.0,1.0,NHL
+St. Louis Blues,1.0,1.0,1.0,NHL
+Tampa Bay Lightning,1.0,1.0,1.0,NHL
+Toronto Maple Leafs,1.0,1.0,1.0,NHL
+Vancouver Canucks,0.0,1.0,1.0,NHL
+Vegas Golden Knights,1.0,1.0,1.0,NHL
+Washington Capitals,1.0,1.0,1.0,NHL
+Winnipeg Jets,1.0,0.0,1.0,NHL

@@ -1,0 +1,127 @@
+﻿Team,Distance,Schedule Type,League
+Brooklyn Nets,59315.36104639383,Planned,NBA
+Los Angeles Lakers,64527.684559215304,Planned,NBA
+Cleveland Cavaliers,52184.54892708725,Planned,NBA
+Indiana Pacers,57739.86078456347,Planned,NBA
+Orlando Magic,66502.44129432274,Planned,NBA
+Philadelphia 76ers,57878.45429726112,Planned,NBA
+Toronto Raptors,56061.62947294438,Planned,NBA
+Boston Celtics,65410.438785644124,Planned,NBA
+Chicago Bulls,54923.97352559765,Planned,NBA
+Memphis Grizzlies,61143.256812754174,Planned,NBA
+Minnesota Timberwolves,66262.8680798337,Planned,NBA
+Denver Nuggets,62646.78479977359,Planned,NBA
+Portland Trail Blazers,67173.56176447592,Planned,NBA
+Phoenix Suns,66466.70448698163,Planned,NBA
+Miami Heat,65308.909007008406,Planned,NBA
+Milwaukee Bucks,53540.457327350276,Planned,NBA
+Charlotte Hornets,49520.38049721599,Planned,NBA
+Detroit Pistons,53376.145936085115,Planned,NBA
+Washington Wizards,51813.71700770665,Planned,NBA
+New York Knicks,59972.10187629982,Planned,NBA
+San Antonio Spurs,60983.00273134036,Planned,NBA
+Utah Jazz,65478.8547276785,Planned,NBA
+Sacramento Kings,69121.35693833372,Planned,NBA
+Los Angeles Clippers,65279.401959772156,Planned,NBA
+New Orleans Pelicans,65395.097903871414,Planned,NBA
+Atlanta Hawks,53165.798533597306,Planned,NBA
+Oklahoma City Thunder,53653.88019549762,Planned,NBA
+Dallas Mavericks,61579.87239673662,Planned,NBA
+Houston Rockets,65897.94773628823,Planned,NBA
+Golden State Warriors,69985.65901285564,Planned,NBA
+all,1822310.1524244868,Planned,NBA
+Brooklyn Nets,59315.36104639383,Actual,NBA
+Los Angeles Lakers,64527.684559215304,Actual,NBA
+Cleveland Cavaliers,51843.73718024445,Actual,NBA
+Indiana Pacers,55925.05257024184,Actual,NBA
+Orlando Magic,70091.29883043923,Actual,NBA
+Philadelphia 76ers,57106.06156964434,Actual,NBA
+Toronto Raptors,56061.62947294438,Actual,NBA
+Boston Celtics,63829.40408164328,Actual,NBA
+Chicago Bulls,55799.633840390125,Actual,NBA
+Memphis Grizzlies,55097.74806164387,Actual,NBA
+Minnesota Timberwolves,66262.8680798337,Actual,NBA
+Denver Nuggets,65047.947481392024,Actual,NBA
+Portland Trail Blazers,67173.56176447592,Actual,NBA
+Phoenix Suns,66466.70448698163,Actual,NBA
+Miami Heat,64429.04354682349,Actual,NBA
+Milwaukee Bucks,53540.457327350276,Actual,NBA
+Charlotte Hornets,49520.38049721599,Actual,NBA
+Detroit Pistons,51138.28462893508,Actual,NBA
+Washington Wizards,52786.42004328709,Actual,NBA
+New York Knicks,59972.10187629982,Actual,NBA
+San Antonio Spurs,61779.69109908096,Actual,NBA
+Utah Jazz,65044.171426613546,Actual,NBA
+Sacramento Kings,71877.18320681938,Actual,NBA
+Los Angeles Clippers,65279.401959772156,Actual,NBA
+New Orleans Pelicans,64767.54807505551,Actual,NBA
+Atlanta Hawks,51285.32139531369,Actual,NBA
+Oklahoma City Thunder,53507.419073292935,Actual,NBA
+Dallas Mavericks,61579.87239673661,Actual,NBA
+Houston Rockets,65897.94773628823,Actual,NBA
+Golden State Warriors,72352.13982803228,Actual,NBA
+all,1819306.0771424011,Actual,NBA
+Colorado Avalanche,27536.17101740747,Planned,NHL
+Edmonton Oilers,42855.5948042779,Planned,NHL
+Philadelphia Flyers,7844.745416281993,Planned,NHL
+Tampa Bay Lightning,29373.339841516605,Planned,NHL
+Toronto Maple Leafs,33695.6432193567,Planned,NHL
+Arizona Coyotes,20124.80441127683,Planned,NHL
+Buffalo Sabres,10748.362531742467,Planned,NHL
+Detroit Red Wings,21712.748522393245,Planned,NHL
+Los Angeles Kings,21517.685648088198,Planned,NHL
+New Jersey Devils,6457.518147384217,Planned,NHL
+Nashville Predators,17854.722438561857,Planned,NHL
+New York Rangers,6613.113654471717,Planned,NHL
+Vegas Golden Knights,24596.4751475046,Planned,NHL
+Winnipeg Jets,27515.87510232794,Planned,NHL
+Ottawa Senators,27907.82874990329,Planned,NHL
+Calgary Flames,30555.223421532566,Planned,NHL
+Florida Panthers,25129.396981478305,Planned,NHL
+Pittsburgh Penguins,9374.259901900132,Planned,NHL
+Anaheim Ducks,21153.835156531055,Planned,NHL
+New York Islanders,6622.316999045236,Planned,NHL
+St. Louis Blues,36670.802624529955,Planned,NHL
+Vancouver Canucks,38560.44110796992,Planned,NHL
+Boston Bruins,9664.24226806568,Planned,NHL
+Columbus Blue Jackets,19475.81633519862,Planned,NHL
+Chicago Blackhawks,19271.83227556013,Planned,NHL
+Dallas Stars,27921.585399339354,Planned,NHL
+Minnesota Wild,32861.50881367342,Planned,NHL
+Washington Capitals,9109.148525623137,Planned,NHL
+Carolina Hurricanes,20271.093337229722,Planned,NHL
+Montreal Canadiens,28897.6553406003,Planned,NHL
+San Jose Sharks,25707.318974990736,Planned,NHL
+all,687601.1061157632,Planned,NHL
+Colorado Avalanche,27540.819875241472,Actual,NHL
+Edmonton Oilers,37665.17498195616,Actual,NHL
+Philadelphia Flyers,7231.839678878979,Actual,NHL
+Tampa Bay Lightning,30694.83186031162,Actual,NHL
+Toronto Maple Leafs,33695.6432193567,Actual,NHL
+Arizona Coyotes,21907.123722856984,Actual,NHL
+Buffalo Sabres,11743.72440019193,Actual,NHL
+Detroit Red Wings,21712.748522393245,Actual,NHL
+Los Angeles Kings,21517.685648088198,Actual,NHL
+New Jersey Devils,8958.63131616365,Actual,NHL
+Nashville Predators,19373.66077603803,Actual,NHL
+New York Rangers,6856.971798826951,Actual,NHL
+Vegas Golden Knights,24596.4751475046,Actual,NHL
+Winnipeg Jets,27515.87510232794,Actual,NHL
+Ottawa Senators,32391.903687518905,Actual,NHL
+Calgary Flames,30555.223421532566,Actual,NHL
+Florida Panthers,24905.513590382856,Actual,NHL
+Pittsburgh Penguins,10361.07914567455,Actual,NHL
+Anaheim Ducks,23799.01445210313,Actual,NHL
+New York Islanders,7631.303987389137,Actual,NHL
+St. Louis Blues,42652.15835094642,Actual,NHL
+Vancouver Canucks,34091.15356679446,Actual,NHL
+Boston Bruins,9664.840380380403,Actual,NHL
+Columbus Blue Jackets,19475.81633519862,Actual,NHL
+Chicago Blackhawks,21162.54795704025,Actual,NHL
+Dallas Stars,29635.352590816805,Actual,NHL
+Minnesota Wild,33654.552597640875,Actual,NHL
+Washington Capitals,9866.772678031144,Actual,NHL
+Carolina Hurricanes,21185.545649097734,Actual,NHL
+Montreal Canadiens,28897.6553406003,Actual,NHL
+San Jose Sharks,25707.318974990736,Actual,NHL
+all,706648.9587562754,Actual,NHL

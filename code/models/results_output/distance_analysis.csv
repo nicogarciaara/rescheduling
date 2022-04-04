@@ -1,0 +1,809 @@
+﻿Team,Distance,Schedule Type,League
+Brooklyn Nets,59315.36104639383,Planned,NBA
+Los Angeles Lakers,64527.6845592153,Planned,NBA
+Cleveland Cavaliers,52184.54892708725,Planned,NBA
+Indiana Pacers,57739.86078456347,Planned,NBA
+Orlando Magic,66502.44129432274,Planned,NBA
+Philadelphia 76ers,57878.45429726112,Planned,NBA
+Toronto Raptors,56061.62947294438,Planned,NBA
+Boston Celtics,65410.438785644124,Planned,NBA
+Chicago Bulls,54923.97352559765,Planned,NBA
+Memphis Grizzlies,61143.256812754174,Planned,NBA
+Minnesota Timberwolves,66262.8680798337,Planned,NBA
+Denver Nuggets,62646.78479977359,Planned,NBA
+Portland Trail Blazers,67173.56176447592,Planned,NBA
+Phoenix Suns,66466.70448698163,Planned,NBA
+Miami Heat,65308.909007008406,Planned,NBA
+Milwaukee Bucks,53540.45732735028,Planned,NBA
+Charlotte Hornets,49520.38049721599,Planned,NBA
+Detroit Pistons,53376.14593608512,Planned,NBA
+Washington Wizards,51813.71700770665,Planned,NBA
+New York Knicks,59972.10187629982,Planned,NBA
+San Antonio Spurs,60983.00273134036,Planned,NBA
+Utah Jazz,65478.8547276785,Planned,NBA
+Sacramento Kings,69121.35693833372,Planned,NBA
+Los Angeles Clippers,65279.40195977216,Planned,NBA
+New Orleans Pelicans,65395.09790387141,Planned,NBA
+Atlanta Hawks,53165.798533597306,Planned,NBA
+Oklahoma City Thunder,53653.88019549762,Planned,NBA
+Dallas Mavericks,61579.87239673662,Planned,NBA
+Houston Rockets,65897.94773628823,Planned,NBA
+Golden State Warriors,69985.65901285564,Planned,NBA
+all,1822310.1524244868,Planned,NBA
+Brooklyn Nets,59315.36104639383,Actual,NBA
+Los Angeles Lakers,64527.6845592153,Actual,NBA
+Cleveland Cavaliers,51843.73718024445,Actual,NBA
+Indiana Pacers,55925.05257024184,Actual,NBA
+Orlando Magic,70091.29883043923,Actual,NBA
+Philadelphia 76ers,57106.06156964434,Actual,NBA
+Toronto Raptors,56061.62947294438,Actual,NBA
+Boston Celtics,63829.40408164328,Actual,NBA
+Chicago Bulls,55799.633840390125,Actual,NBA
+Memphis Grizzlies,55097.74806164387,Actual,NBA
+Minnesota Timberwolves,66262.8680798337,Actual,NBA
+Denver Nuggets,65047.94748139202,Actual,NBA
+Portland Trail Blazers,67173.56176447592,Actual,NBA
+Phoenix Suns,66466.70448698163,Actual,NBA
+Miami Heat,64429.04354682349,Actual,NBA
+Milwaukee Bucks,53540.45732735028,Actual,NBA
+Charlotte Hornets,49520.38049721599,Actual,NBA
+Detroit Pistons,51138.28462893508,Actual,NBA
+Washington Wizards,52786.42004328709,Actual,NBA
+New York Knicks,59972.10187629982,Actual,NBA
+San Antonio Spurs,61779.69109908096,Actual,NBA
+Utah Jazz,65044.171426613546,Actual,NBA
+Sacramento Kings,71877.18320681938,Actual,NBA
+Los Angeles Clippers,65279.40195977216,Actual,NBA
+New Orleans Pelicans,64767.54807505551,Actual,NBA
+Atlanta Hawks,51285.32139531369,Actual,NBA
+Oklahoma City Thunder,53507.419073292935,Actual,NBA
+Dallas Mavericks,61579.87239673661,Actual,NBA
+Houston Rockets,65897.94773628823,Actual,NBA
+Golden State Warriors,72352.13982803228,Actual,NBA
+all,1819306.077142401,Actual,NBA
+Colorado Avalanche,27536.17101740747,Planned,NHL
+Edmonton Oilers,42855.5948042779,Planned,NHL
+Philadelphia Flyers,7844.745416281993,Planned,NHL
+Tampa Bay Lightning,29373.339841516605,Planned,NHL
+Toronto Maple Leafs,33695.6432193567,Planned,NHL
+Arizona Coyotes,20124.80441127683,Planned,NHL
+Buffalo Sabres,10748.362531742468,Planned,NHL
+Detroit Red Wings,21712.748522393245,Planned,NHL
+Los Angeles Kings,21517.6856480882,Planned,NHL
+New Jersey Devils,6457.518147384217,Planned,NHL
+Nashville Predators,17854.722438561857,Planned,NHL
+New York Rangers,6613.113654471717,Planned,NHL
+Vegas Golden Knights,24596.4751475046,Planned,NHL
+Winnipeg Jets,27515.87510232794,Planned,NHL
+Ottawa Senators,27907.82874990329,Planned,NHL
+Calgary Flames,30555.22342153257,Planned,NHL
+Florida Panthers,25129.396981478305,Planned,NHL
+Pittsburgh Penguins,9374.259901900132,Planned,NHL
+Anaheim Ducks,21153.83515653105,Planned,NHL
+New York Islanders,6622.316999045236,Planned,NHL
+St. Louis Blues,36670.80262452996,Planned,NHL
+Vancouver Canucks,38560.44110796992,Planned,NHL
+Boston Bruins,9664.24226806568,Planned,NHL
+Columbus Blue Jackets,19475.81633519862,Planned,NHL
+Chicago Blackhawks,19271.83227556013,Planned,NHL
+Dallas Stars,27921.585399339358,Planned,NHL
+Minnesota Wild,32861.50881367342,Planned,NHL
+Washington Capitals,9109.148525623135,Planned,NHL
+Carolina Hurricanes,20271.09333722972,Planned,NHL
+Montreal Canadiens,28897.6553406003,Planned,NHL
+San Jose Sharks,25707.318974990736,Planned,NHL
+all,687601.1061157632,Planned,NHL
+Colorado Avalanche,27540.819875241472,Actual,NHL
+Edmonton Oilers,37665.17498195616,Actual,NHL
+Philadelphia Flyers,7231.839678878979,Actual,NHL
+Tampa Bay Lightning,30694.83186031162,Actual,NHL
+Toronto Maple Leafs,33695.6432193567,Actual,NHL
+Arizona Coyotes,21907.123722856984,Actual,NHL
+Buffalo Sabres,11743.72440019193,Actual,NHL
+Detroit Red Wings,21712.748522393245,Actual,NHL
+Los Angeles Kings,21517.6856480882,Actual,NHL
+New Jersey Devils,8958.63131616365,Actual,NHL
+Nashville Predators,19373.66077603803,Actual,NHL
+New York Rangers,6856.971798826951,Actual,NHL
+Vegas Golden Knights,24596.4751475046,Actual,NHL
+Winnipeg Jets,27515.87510232794,Actual,NHL
+Ottawa Senators,32391.903687518905,Actual,NHL
+Calgary Flames,30555.22342153257,Actual,NHL
+Florida Panthers,24905.513590382856,Actual,NHL
+Pittsburgh Penguins,10361.07914567455,Actual,NHL
+Anaheim Ducks,23799.01445210313,Actual,NHL
+New York Islanders,7631.303987389137,Actual,NHL
+St. Louis Blues,42652.15835094642,Actual,NHL
+Vancouver Canucks,34091.15356679446,Actual,NHL
+Boston Bruins,9664.840380380405,Actual,NHL
+Columbus Blue Jackets,19475.81633519862,Actual,NHL
+Chicago Blackhawks,21162.54795704025,Actual,NHL
+Dallas Stars,29635.352590816805,Actual,NHL
+Minnesota Wild,33654.552597640875,Actual,NHL
+Washington Capitals,9866.772678031144,Actual,NHL
+Carolina Hurricanes,21185.54564909773,Actual,NHL
+Montreal Canadiens,28897.6553406003,Actual,NHL
+San Jose Sharks,25707.318974990736,Actual,NHL
+all,706648.9587562754,Actual,NHL
+Brooklyn Nets,59315.36104639384,basic - low - basic - monthly,NBA
+Los Angeles Lakers,64527.6845592153,basic - low - basic - monthly,NBA
+Cleveland Cavaliers,52512.09384301076,basic - low - basic - monthly,NBA
+Indiana Pacers,55925.05257024185,basic - low - basic - monthly,NBA
+Orlando Magic,70091.29883043923,basic - low - basic - monthly,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - basic - monthly,NBA
+Toronto Raptors,56061.62947294438,basic - low - basic - monthly,NBA
+Boston Celtics,63829.40408164328,basic - low - basic - monthly,NBA
+Chicago Bulls,56005.28341039955,basic - low - basic - monthly,NBA
+Memphis Grizzlies,65039.33820356279,basic - low - basic - monthly,NBA
+Minnesota Timberwolves,66262.8680798337,basic - low - basic - monthly,NBA
+Denver Nuggets,65047.947481392024,basic - low - basic - monthly,NBA
+Portland Trail Blazers,68792.62269375104,basic - low - basic - monthly,NBA
+Phoenix Suns,66466.70448698163,basic - low - basic - monthly,NBA
+Miami Heat,64429.04354682349,basic - low - basic - monthly,NBA
+Milwaukee Bucks,53540.45732735029,basic - low - basic - monthly,NBA
+Charlotte Hornets,49851.21247787254,basic - low - basic - monthly,NBA
+Detroit Pistons,51138.28462893508,basic - low - basic - monthly,NBA
+Washington Wizards,53631.53105060853,basic - low - basic - monthly,NBA
+New York Knicks,59972.10187629982,basic - low - basic - monthly,NBA
+San Antonio Spurs,62888.06425040395,basic - low - basic - monthly,NBA
+Utah Jazz,65358.64908515962,basic - low - basic - monthly,NBA
+Sacramento Kings,71877.18320681939,basic - low - basic - monthly,NBA
+Los Angeles Clippers,65279.40195977216,basic - low - basic - monthly,NBA
+New Orleans Pelicans,64767.54807505551,basic - low - basic - monthly,NBA
+Atlanta Hawks,51285.321395313695,basic - low - basic - monthly,NBA
+Oklahoma City Thunder,53507.419073292935,basic - low - basic - monthly,NBA
+Dallas Mavericks,61579.87239673661,basic - low - basic - monthly,NBA
+Houston Rockets,65897.94773628825,basic - low - basic - monthly,NBA
+Golden State Warriors,72352.13982803228,basic - low - basic - monthly,NBA
+all,1834339.5282442179,basic - low - basic - monthly,NBA
+Brooklyn Nets,59315.36104639384,basic - low - basic - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,basic - low - basic - post_all_star,NBA
+Cleveland Cavaliers,52021.09286278146,basic - low - basic - post_all_star,NBA
+Indiana Pacers,55925.05257024185,basic - low - basic - post_all_star,NBA
+Orlando Magic,70091.29883043923,basic - low - basic - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - basic - post_all_star,NBA
+Toronto Raptors,56061.62947294438,basic - low - basic - post_all_star,NBA
+Boston Celtics,63829.40408164328,basic - low - basic - post_all_star,NBA
+Chicago Bulls,56005.28341039955,basic - low - basic - post_all_star,NBA
+Memphis Grizzlies,65039.33820356279,basic - low - basic - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,basic - low - basic - post_all_star,NBA
+Denver Nuggets,65047.947481392024,basic - low - basic - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,basic - low - basic - post_all_star,NBA
+Phoenix Suns,66466.70448698163,basic - low - basic - post_all_star,NBA
+Miami Heat,64429.04354682349,basic - low - basic - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,basic - low - basic - post_all_star,NBA
+Charlotte Hornets,49851.21247787254,basic - low - basic - post_all_star,NBA
+Detroit Pistons,51138.28462893508,basic - low - basic - post_all_star,NBA
+Washington Wizards,53631.53105060853,basic - low - basic - post_all_star,NBA
+New York Knicks,59972.10187629982,basic - low - basic - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,basic - low - basic - post_all_star,NBA
+Utah Jazz,65358.64908515962,basic - low - basic - post_all_star,NBA
+Sacramento Kings,71877.18320681939,basic - low - basic - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,basic - low - basic - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,basic - low - basic - post_all_star,NBA
+Atlanta Hawks,51285.321395313695,basic - low - basic - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,basic - low - basic - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,basic - low - basic - post_all_star,NBA
+Houston Rockets,65897.94773628825,basic - low - basic - post_all_star,NBA
+Golden State Warriors,72352.13982803228,basic - low - basic - post_all_star,NBA
+all,1832740.1541126654,basic - low - basic - post_all_star,NBA
+Brooklyn Nets,60236.16238059089,basic - low - 15_more_games - monthly,NBA
+Los Angeles Lakers,65673.79589984058,basic - low - 15_more_games - monthly,NBA
+Cleveland Cavaliers,59336.924634364535,basic - low - 15_more_games - monthly,NBA
+Indiana Pacers,59139.71162730758,basic - low - 15_more_games - monthly,NBA
+Orlando Magic,72252.47396513128,basic - low - 15_more_games - monthly,NBA
+Philadelphia 76ers,65897.89643073066,basic - low - 15_more_games - monthly,NBA
+Toronto Raptors,61446.68199174002,basic - low - 15_more_games - monthly,NBA
+Boston Celtics,65165.862444100785,basic - low - 15_more_games - monthly,NBA
+Chicago Bulls,55942.53739440475,basic - low - 15_more_games - monthly,NBA
+Memphis Grizzlies,66396.08027741157,basic - low - 15_more_games - monthly,NBA
+Minnesota Timberwolves,66262.8680798337,basic - low - 15_more_games - monthly,NBA
+Denver Nuggets,65047.947481392024,basic - low - 15_more_games - monthly,NBA
+Portland Trail Blazers,68792.62269375104,basic - low - 15_more_games - monthly,NBA
+Phoenix Suns,66466.70448698163,basic - low - 15_more_games - monthly,NBA
+Miami Heat,65332.66919432079,basic - low - 15_more_games - monthly,NBA
+Milwaukee Bucks,53509.09924361715,basic - low - 15_more_games - monthly,NBA
+Charlotte Hornets,49851.21247787254,basic - low - 15_more_games - monthly,NBA
+Detroit Pistons,51138.28462893508,basic - low - 15_more_games - monthly,NBA
+Washington Wizards,53631.53105060853,basic - low - 15_more_games - monthly,NBA
+New York Knicks,59972.10187629982,basic - low - 15_more_games - monthly,NBA
+San Antonio Spurs,65581.35650362745,basic - low - 15_more_games - monthly,NBA
+Utah Jazz,66655.92247856098,basic - low - 15_more_games - monthly,NBA
+Sacramento Kings,74693.62789152944,basic - low - 15_more_games - monthly,NBA
+Los Angeles Clippers,65279.40195977216,basic - low - 15_more_games - monthly,NBA
+New Orleans Pelicans,76028.33808467946,basic - low - 15_more_games - monthly,NBA
+Atlanta Hawks,51285.321395313695,basic - low - 15_more_games - monthly,NBA
+Oklahoma City Thunder,53507.419073292935,basic - low - 15_more_games - monthly,NBA
+Dallas Mavericks,61579.87239673661,basic - low - 15_more_games - monthly,NBA
+Houston Rockets,66323.30573483201,basic - low - 15_more_games - monthly,NBA
+Golden State Warriors,74822.44981154628,basic - low - 15_more_games - monthly,NBA
+all,1887250.183589126,basic - low - 15_more_games - monthly,NBA
+Brooklyn Nets,59315.36104639384,basic - low - 15_more_games - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,basic - low - 15_more_games - post_all_star,NBA
+Cleveland Cavaliers,51843.73718024445,basic - low - 15_more_games - post_all_star,NBA
+Indiana Pacers,55925.05257024185,basic - low - 15_more_games - post_all_star,NBA
+Orlando Magic,70091.29883043923,basic - low - 15_more_games - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - 15_more_games - post_all_star,NBA
+Toronto Raptors,56061.62947294438,basic - low - 15_more_games - post_all_star,NBA
+Boston Celtics,63829.40408164328,basic - low - 15_more_games - post_all_star,NBA
+Chicago Bulls,54555.486446690076,basic - low - 15_more_games - post_all_star,NBA
+Memphis Grizzlies,55097.748061643884,basic - low - 15_more_games - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,basic - low - 15_more_games - post_all_star,NBA
+Denver Nuggets,65047.947481392024,basic - low - 15_more_games - post_all_star,NBA
+Portland Trail Blazers,67173.56176447592,basic - low - 15_more_games - post_all_star,NBA
+Phoenix Suns,66466.70448698163,basic - low - 15_more_games - post_all_star,NBA
+Miami Heat,64429.04354682349,basic - low - 15_more_games - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,basic - low - 15_more_games - post_all_star,NBA
+Charlotte Hornets,49520.38049721599,basic - low - 15_more_games - post_all_star,NBA
+Detroit Pistons,51138.28462893508,basic - low - 15_more_games - post_all_star,NBA
+Washington Wizards,54506.12556797106,basic - low - 15_more_games - post_all_star,NBA
+New York Knicks,59972.10187629982,basic - low - 15_more_games - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,basic - low - 15_more_games - post_all_star,NBA
+Utah Jazz,65358.64908515962,basic - low - 15_more_games - post_all_star,NBA
+Sacramento Kings,71877.18320681939,basic - low - 15_more_games - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,basic - low - 15_more_games - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,basic - low - 15_more_games - post_all_star,NBA
+Atlanta Hawks,51285.321395313695,basic - low - 15_more_games - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,basic - low - 15_more_games - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,basic - low - 15_more_games - post_all_star,NBA
+Houston Rockets,65897.94773628825,basic - low - 15_more_games - post_all_star,NBA
+Golden State Warriors,72352.13982803228,basic - low - 15_more_games - post_all_star,NBA
+all,1820096.112931931,basic - low - 15_more_games - post_all_star,NBA
+Brooklyn Nets,62220.314961607764,basic - low - 25_more_games - monthly,NBA
+Los Angeles Lakers,75579.45847675388,basic - low - 25_more_games - monthly,NBA
+Cleveland Cavaliers,52512.09384301076,basic - low - 25_more_games - monthly,NBA
+Indiana Pacers,56493.72378827532,basic - low - 25_more_games - monthly,NBA
+Orlando Magic,70091.29883043923,basic - low - 25_more_games - monthly,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - 25_more_games - monthly,NBA
+Toronto Raptors,56061.62947294438,basic - low - 25_more_games - monthly,NBA
+Boston Celtics,81742.9561559018,basic - low - 25_more_games - monthly,NBA
+Chicago Bulls,59440.77816538602,basic - low - 25_more_games - monthly,NBA
+Memphis Grizzlies,65701.71379587625,basic - low - 25_more_games - monthly,NBA
+Minnesota Timberwolves,65808.73715084123,basic - low - 25_more_games - monthly,NBA
+Denver Nuggets,69255.2173622021,basic - low - 25_more_games - monthly,NBA
+Portland Trail Blazers,73061.18997294728,basic - low - 25_more_games - monthly,NBA
+Phoenix Suns,68329.1795181905,basic - low - 25_more_games - monthly,NBA
+Miami Heat,64492.88869647012,basic - low - 25_more_games - monthly,NBA
+Milwaukee Bucks,67072.31391550123,basic - low - 25_more_games - monthly,NBA
+Charlotte Hornets,49851.21247787254,basic - low - 25_more_games - monthly,NBA
+Detroit Pistons,52779.27414565101,basic - low - 25_more_games - monthly,NBA
+Washington Wizards,59162.320307888636,basic - low - 25_more_games - monthly,NBA
+New York Knicks,59972.10187629982,basic - low - 25_more_games - monthly,NBA
+San Antonio Spurs,62888.06425040395,basic - low - 25_more_games - monthly,NBA
+Utah Jazz,75499.88794316424,basic - low - 25_more_games - monthly,NBA
+Sacramento Kings,76275.12640336218,basic - low - 25_more_games - monthly,NBA
+Los Angeles Clippers,64041.371173665146,basic - low - 25_more_games - monthly,NBA
+New Orleans Pelicans,67863.02150173877,basic - low - 25_more_games - monthly,NBA
+Atlanta Hawks,51285.321395313695,basic - low - 25_more_games - monthly,NBA
+Oklahoma City Thunder,53896.02136093412,basic - low - 25_more_games - monthly,NBA
+Dallas Mavericks,61579.87239673661,basic - low - 25_more_games - monthly,NBA
+Houston Rockets,68758.47874460138,basic - low - 25_more_games - monthly,NBA
+Golden State Warriors,72352.13982803228,basic - low - 25_more_games - monthly,NBA
+all,1921173.7694816566,basic - low - 25_more_games - monthly,NBA
+Brooklyn Nets,59315.36104639384,basic - low - 25_more_games - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,basic - low - 25_more_games - post_all_star,NBA
+Cleveland Cavaliers,51843.73718024445,basic - low - 25_more_games - post_all_star,NBA
+Indiana Pacers,55925.05257024185,basic - low - 25_more_games - post_all_star,NBA
+Orlando Magic,70091.29883043923,basic - low - 25_more_games - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - 25_more_games - post_all_star,NBA
+Toronto Raptors,56061.62947294438,basic - low - 25_more_games - post_all_star,NBA
+Boston Celtics,63829.40408164328,basic - low - 25_more_games - post_all_star,NBA
+Chicago Bulls,54555.486446690076,basic - low - 25_more_games - post_all_star,NBA
+Memphis Grizzlies,55097.748061643884,basic - low - 25_more_games - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,basic - low - 25_more_games - post_all_star,NBA
+Denver Nuggets,65047.947481392024,basic - low - 25_more_games - post_all_star,NBA
+Portland Trail Blazers,67173.56176447592,basic - low - 25_more_games - post_all_star,NBA
+Phoenix Suns,66466.70448698163,basic - low - 25_more_games - post_all_star,NBA
+Miami Heat,64429.04354682349,basic - low - 25_more_games - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,basic - low - 25_more_games - post_all_star,NBA
+Charlotte Hornets,49520.38049721599,basic - low - 25_more_games - post_all_star,NBA
+Detroit Pistons,51138.28462893508,basic - low - 25_more_games - post_all_star,NBA
+Washington Wizards,54506.12556797106,basic - low - 25_more_games - post_all_star,NBA
+New York Knicks,59972.10187629982,basic - low - 25_more_games - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,basic - low - 25_more_games - post_all_star,NBA
+Utah Jazz,65358.64908515962,basic - low - 25_more_games - post_all_star,NBA
+Sacramento Kings,71877.18320681939,basic - low - 25_more_games - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,basic - low - 25_more_games - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,basic - low - 25_more_games - post_all_star,NBA
+Atlanta Hawks,51285.321395313695,basic - low - 25_more_games - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,basic - low - 25_more_games - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,basic - low - 25_more_games - post_all_star,NBA
+Houston Rockets,65897.94773628825,basic - low - 25_more_games - post_all_star,NBA
+Golden State Warriors,72352.13982803228,basic - low - 25_more_games - post_all_star,NBA
+all,1820096.112931931,basic - low - 25_more_games - post_all_star,NBA
+Brooklyn Nets,61559.75857629586,basic - low - 15_games_in_march - monthly,NBA
+Los Angeles Lakers,64527.6845592153,basic - low - 15_games_in_march - monthly,NBA
+Cleveland Cavaliers,53329.67393971948,basic - low - 15_games_in_march - monthly,NBA
+Indiana Pacers,55925.05257024185,basic - low - 15_games_in_march - monthly,NBA
+Orlando Magic,68170.1712843903,basic - low - 15_games_in_march - monthly,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - 15_games_in_march - monthly,NBA
+Toronto Raptors,56510.61443195623,basic - low - 15_games_in_march - monthly,NBA
+Boston Celtics,63829.40408164328,basic - low - 15_games_in_march - monthly,NBA
+Chicago Bulls,56005.28341039955,basic - low - 15_games_in_march - monthly,NBA
+Memphis Grizzlies,62515.02418805243,basic - low - 15_games_in_march - monthly,NBA
+Minnesota Timberwolves,64618.734046446065,basic - low - 15_games_in_march - monthly,NBA
+Denver Nuggets,67715.02280195635,basic - low - 15_games_in_march - monthly,NBA
+Portland Trail Blazers,68792.62269375104,basic - low - 15_games_in_march - monthly,NBA
+Phoenix Suns,65097.54611252499,basic - low - 15_games_in_march - monthly,NBA
+Miami Heat,62979.47886386524,basic - low - 15_games_in_march - monthly,NBA
+Milwaukee Bucks,56480.58931979092,basic - low - 15_games_in_march - monthly,NBA
+Charlotte Hornets,59682.58932929468,basic - low - 15_games_in_march - monthly,NBA
+Detroit Pistons,51138.28462893508,basic - low - 15_games_in_march - monthly,NBA
+Washington Wizards,54943.87378432003,basic - low - 15_games_in_march - monthly,NBA
+New York Knicks,59972.10187629982,basic - low - 15_games_in_march - monthly,NBA
+San Antonio Spurs,62888.06425040395,basic - low - 15_games_in_march - monthly,NBA
+Utah Jazz,66655.92247856098,basic - low - 15_games_in_march - monthly,NBA
+Sacramento Kings,74693.62789152944,basic - low - 15_games_in_march - monthly,NBA
+Los Angeles Clippers,65944.31324831114,basic - low - 15_games_in_march - monthly,NBA
+New Orleans Pelicans,64767.54807505551,basic - low - 15_games_in_march - monthly,NBA
+Atlanta Hawks,50104.867647197825,basic - low - 15_games_in_march - monthly,NBA
+Oklahoma City Thunder,52560.18364735891,basic - low - 15_games_in_march - monthly,NBA
+Dallas Mavericks,64206.87297389641,basic - low - 15_games_in_march - monthly,NBA
+Houston Rockets,70177.19526375456,basic - low - 15_games_in_march - monthly,NBA
+Golden State Warriors,72233.05341102774,basic - low - 15_games_in_march - monthly,NBA
+all,1855131.220955839,basic - low - 15_games_in_march - monthly,NBA
+Brooklyn Nets,61559.75857629586,basic - low - 15_games_in_march - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,basic - low - 15_games_in_march - post_all_star,NBA
+Cleveland Cavaliers,52838.67295949018,basic - low - 15_games_in_march - post_all_star,NBA
+Indiana Pacers,58865.79391014979,basic - low - 15_games_in_march - post_all_star,NBA
+Orlando Magic,68170.1712843903,basic - low - 15_games_in_march - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,basic - low - 15_games_in_march - post_all_star,NBA
+Toronto Raptors,56510.61443195623,basic - low - 15_games_in_march - post_all_star,NBA
+Boston Celtics,63829.40408164328,basic - low - 15_games_in_march - post_all_star,NBA
+Chicago Bulls,56005.28341039955,basic - low - 15_games_in_march - post_all_star,NBA
+Memphis Grizzlies,62515.02418805243,basic - low - 15_games_in_march - post_all_star,NBA
+Minnesota Timberwolves,64618.734046446065,basic - low - 15_games_in_march - post_all_star,NBA
+Denver Nuggets,67715.02280195635,basic - low - 15_games_in_march - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,basic - low - 15_games_in_march - post_all_star,NBA
+Phoenix Suns,66466.70448698163,basic - low - 15_games_in_march - post_all_star,NBA
+Miami Heat,62979.47886386524,basic - low - 15_games_in_march - post_all_star,NBA
+Milwaukee Bucks,56480.58931979092,basic - low - 15_games_in_march - post_all_star,NBA
+Charlotte Hornets,59682.58932929468,basic - low - 15_games_in_march - post_all_star,NBA
+Detroit Pistons,51138.28462893508,basic - low - 15_games_in_march - post_all_star,NBA
+Washington Wizards,54943.87378432003,basic - low - 15_games_in_march - post_all_star,NBA
+New York Knicks,59972.10187629982,basic - low - 15_games_in_march - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,basic - low - 15_games_in_march - post_all_star,NBA
+Utah Jazz,66655.92247856098,basic - low - 15_games_in_march - post_all_star,NBA
+Sacramento Kings,74693.62789152944,basic - low - 15_games_in_march - post_all_star,NBA
+Los Angeles Clippers,65944.31324831114,basic - low - 15_games_in_march - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,basic - low - 15_games_in_march - post_all_star,NBA
+Atlanta Hawks,50104.867647197825,basic - low - 15_games_in_march - post_all_star,NBA
+Oklahoma City Thunder,52472.23763119975,basic - low - 15_games_in_march - post_all_star,NBA
+Dallas Mavericks,64206.87297389641,basic - low - 15_games_in_march - post_all_star,NBA
+Houston Rockets,70177.19526375456,basic - low - 15_games_in_march - post_all_star,NBA
+Golden State Warriors,72233.05341102774,basic - low - 15_games_in_march - post_all_star,NBA
+all,1857753.800522492,basic - low - 15_games_in_march - post_all_star,NBA
+Brooklyn Nets,59315.36104639384,min_diff - low - basic - monthly,NBA
+Los Angeles Lakers,64527.6845592153,min_diff - low - basic - monthly,NBA
+Cleveland Cavaliers,52512.09384301076,min_diff - low - basic - monthly,NBA
+Indiana Pacers,55925.05257024185,min_diff - low - basic - monthly,NBA
+Orlando Magic,70091.29883043923,min_diff - low - basic - monthly,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - basic - monthly,NBA
+Toronto Raptors,56061.62947294438,min_diff - low - basic - monthly,NBA
+Boston Celtics,63829.40408164328,min_diff - low - basic - monthly,NBA
+Chicago Bulls,56005.28341039955,min_diff - low - basic - monthly,NBA
+Memphis Grizzlies,60973.18863315758,min_diff - low - basic - monthly,NBA
+Minnesota Timberwolves,66262.8680798337,min_diff - low - basic - monthly,NBA
+Denver Nuggets,65047.947481392024,min_diff - low - basic - monthly,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - basic - monthly,NBA
+Phoenix Suns,65097.54611252499,min_diff - low - basic - monthly,NBA
+Miami Heat,64429.04354682349,min_diff - low - basic - monthly,NBA
+Milwaukee Bucks,53540.45732735029,min_diff - low - basic - monthly,NBA
+Charlotte Hornets,49851.21247787254,min_diff - low - basic - monthly,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - basic - monthly,NBA
+Washington Wizards,53631.53105060853,min_diff - low - basic - monthly,NBA
+New York Knicks,59972.10187629982,min_diff - low - basic - monthly,NBA
+San Antonio Spurs,62888.06425040395,min_diff - low - basic - monthly,NBA
+Utah Jazz,65358.64908515962,min_diff - low - basic - monthly,NBA
+Sacramento Kings,77510.07257623949,min_diff - low - basic - monthly,NBA
+Los Angeles Clippers,65279.40195977216,min_diff - low - basic - monthly,NBA
+New Orleans Pelicans,64767.54807505551,min_diff - low - basic - monthly,NBA
+Atlanta Hawks,54901.64714219055,min_diff - low - basic - monthly,NBA
+Oklahoma City Thunder,53507.419073292935,min_diff - low - basic - monthly,NBA
+Dallas Mavericks,61579.87239673661,min_diff - low - basic - monthly,NBA
+Houston Rockets,65897.94773628825,min_diff - low - basic - monthly,NBA
+Golden State Warriors,72352.13982803228,min_diff - low - basic - monthly,NBA
+all,1838153.4354156528,min_diff - low - basic - monthly,NBA
+Brooklyn Nets,59315.36104639384,min_diff - low - basic - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,min_diff - low - basic - post_all_star,NBA
+Cleveland Cavaliers,52021.09286278146,min_diff - low - basic - post_all_star,NBA
+Indiana Pacers,55925.05257024185,min_diff - low - basic - post_all_star,NBA
+Orlando Magic,70091.29883043923,min_diff - low - basic - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - basic - post_all_star,NBA
+Toronto Raptors,56061.62947294438,min_diff - low - basic - post_all_star,NBA
+Boston Celtics,63829.40408164328,min_diff - low - basic - post_all_star,NBA
+Chicago Bulls,56005.28341039955,min_diff - low - basic - post_all_star,NBA
+Memphis Grizzlies,60973.18863315758,min_diff - low - basic - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,min_diff - low - basic - post_all_star,NBA
+Denver Nuggets,65047.947481392024,min_diff - low - basic - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - basic - post_all_star,NBA
+Phoenix Suns,65097.54611252499,min_diff - low - basic - post_all_star,NBA
+Miami Heat,64429.04354682349,min_diff - low - basic - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,min_diff - low - basic - post_all_star,NBA
+Charlotte Hornets,49851.21247787254,min_diff - low - basic - post_all_star,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - basic - post_all_star,NBA
+Washington Wizards,53631.53105060853,min_diff - low - basic - post_all_star,NBA
+New York Knicks,59972.10187629982,min_diff - low - basic - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,min_diff - low - basic - post_all_star,NBA
+Utah Jazz,65358.64908515962,min_diff - low - basic - post_all_star,NBA
+Sacramento Kings,77510.07257623949,min_diff - low - basic - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,min_diff - low - basic - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,min_diff - low - basic - post_all_star,NBA
+Atlanta Hawks,54901.64714219055,min_diff - low - basic - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,min_diff - low - basic - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,min_diff - low - basic - post_all_star,NBA
+Houston Rockets,65897.94773628825,min_diff - low - basic - post_all_star,NBA
+Golden State Warriors,72352.13982803228,min_diff - low - basic - post_all_star,NBA
+all,1836554.0612841009,min_diff - low - basic - post_all_star,NBA
+Brooklyn Nets,60236.16238059089,min_diff - low - 15_more_games - monthly,NBA
+Los Angeles Lakers,65673.79589984058,min_diff - low - 15_more_games - monthly,NBA
+Cleveland Cavaliers,59336.924634364535,min_diff - low - 15_more_games - monthly,NBA
+Indiana Pacers,59139.71162730758,min_diff - low - 15_more_games - monthly,NBA
+Orlando Magic,72252.47396513128,min_diff - low - 15_more_games - monthly,NBA
+Philadelphia 76ers,65897.89643073066,min_diff - low - 15_more_games - monthly,NBA
+Toronto Raptors,61446.68199174002,min_diff - low - 15_more_games - monthly,NBA
+Boston Celtics,65165.862444100785,min_diff - low - 15_more_games - monthly,NBA
+Chicago Bulls,55942.53739440475,min_diff - low - 15_more_games - monthly,NBA
+Memphis Grizzlies,60298.154744378844,min_diff - low - 15_more_games - monthly,NBA
+Minnesota Timberwolves,66262.8680798337,min_diff - low - 15_more_games - monthly,NBA
+Denver Nuggets,65047.947481392024,min_diff - low - 15_more_games - monthly,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - 15_more_games - monthly,NBA
+Phoenix Suns,66466.70448698163,min_diff - low - 15_more_games - monthly,NBA
+Miami Heat,65332.66919432079,min_diff - low - 15_more_games - monthly,NBA
+Milwaukee Bucks,53509.09924361715,min_diff - low - 15_more_games - monthly,NBA
+Charlotte Hornets,49851.21247787254,min_diff - low - 15_more_games - monthly,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - 15_more_games - monthly,NBA
+Washington Wizards,53631.53105060853,min_diff - low - 15_more_games - monthly,NBA
+New York Knicks,59972.10187629982,min_diff - low - 15_more_games - monthly,NBA
+San Antonio Spurs,65581.35650362745,min_diff - low - 15_more_games - monthly,NBA
+Utah Jazz,66655.92247856098,min_diff - low - 15_more_games - monthly,NBA
+Sacramento Kings,77510.07257623949,min_diff - low - 15_more_games - monthly,NBA
+Los Angeles Clippers,65279.40195977216,min_diff - low - 15_more_games - monthly,NBA
+New Orleans Pelicans,76028.33808467946,min_diff - low - 15_more_games - monthly,NBA
+Atlanta Hawks,54901.64714219055,min_diff - low - 15_more_games - monthly,NBA
+Oklahoma City Thunder,53507.419073292935,min_diff - low - 15_more_games - monthly,NBA
+Dallas Mavericks,61579.87239673661,min_diff - low - 15_more_games - monthly,NBA
+Houston Rockets,66323.30573483201,min_diff - low - 15_more_games - monthly,NBA
+Golden State Warriors,74822.44981154628,min_diff - low - 15_more_games - monthly,NBA
+all,1887585.0284876805,min_diff - low - 15_more_games - monthly,NBA
+Brooklyn Nets,59315.36104639384,min_diff - low - 15_more_games - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,min_diff - low - 15_more_games - post_all_star,NBA
+Cleveland Cavaliers,51843.73718024445,min_diff - low - 15_more_games - post_all_star,NBA
+Indiana Pacers,55925.05257024185,min_diff - low - 15_more_games - post_all_star,NBA
+Orlando Magic,70091.29883043923,min_diff - low - 15_more_games - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - 15_more_games - post_all_star,NBA
+Toronto Raptors,56061.62947294438,min_diff - low - 15_more_games - post_all_star,NBA
+Boston Celtics,63829.40408164328,min_diff - low - 15_more_games - post_all_star,NBA
+Chicago Bulls,54555.486446690076,min_diff - low - 15_more_games - post_all_star,NBA
+Memphis Grizzlies,62303.59097520946,min_diff - low - 15_more_games - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,min_diff - low - 15_more_games - post_all_star,NBA
+Denver Nuggets,65047.947481392024,min_diff - low - 15_more_games - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - 15_more_games - post_all_star,NBA
+Phoenix Suns,66466.70448698163,min_diff - low - 15_more_games - post_all_star,NBA
+Miami Heat,64429.04354682349,min_diff - low - 15_more_games - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,min_diff - low - 15_more_games - post_all_star,NBA
+Charlotte Hornets,49520.38049721599,min_diff - low - 15_more_games - post_all_star,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - 15_more_games - post_all_star,NBA
+Washington Wizards,54506.12556797106,min_diff - low - 15_more_games - post_all_star,NBA
+New York Knicks,59972.10187629982,min_diff - low - 15_more_games - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,min_diff - low - 15_more_games - post_all_star,NBA
+Utah Jazz,65358.64908515962,min_diff - low - 15_more_games - post_all_star,NBA
+Sacramento Kings,77473.56930599216,min_diff - low - 15_more_games - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,min_diff - low - 15_more_games - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,min_diff - low - 15_more_games - post_all_star,NBA
+Atlanta Hawks,56763.25303655616,min_diff - low - 15_more_games - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,min_diff - low - 15_more_games - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,min_diff - low - 15_more_games - post_all_star,NBA
+Houston Rockets,65897.94773628825,min_diff - low - 15_more_games - post_all_star,NBA
+Golden State Warriors,72352.13982803228,min_diff - low - 15_more_games - post_all_star,NBA
+all,1839995.334515187,min_diff - low - 15_more_games - post_all_star,NBA
+Brooklyn Nets,62220.314961607764,min_diff - low - 25_more_games - monthly,NBA
+Los Angeles Lakers,75579.45847675388,min_diff - low - 25_more_games - monthly,NBA
+Cleveland Cavaliers,52512.09384301076,min_diff - low - 25_more_games - monthly,NBA
+Indiana Pacers,56493.72378827532,min_diff - low - 25_more_games - monthly,NBA
+Orlando Magic,70091.29883043923,min_diff - low - 25_more_games - monthly,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - 25_more_games - monthly,NBA
+Toronto Raptors,56061.62947294438,min_diff - low - 25_more_games - monthly,NBA
+Boston Celtics,81742.9561559018,min_diff - low - 25_more_games - monthly,NBA
+Chicago Bulls,59440.77816538602,min_diff - low - 25_more_games - monthly,NBA
+Memphis Grizzlies,61635.56422547104,min_diff - low - 25_more_games - monthly,NBA
+Minnesota Timberwolves,68103.72791307844,min_diff - low - 25_more_games - monthly,NBA
+Denver Nuggets,69255.2173622021,min_diff - low - 25_more_games - monthly,NBA
+Portland Trail Blazers,73061.18997294728,min_diff - low - 25_more_games - monthly,NBA
+Phoenix Suns,69754.05997594293,min_diff - low - 25_more_games - monthly,NBA
+Miami Heat,68893.74483664264,min_diff - low - 25_more_games - monthly,NBA
+Milwaukee Bucks,67072.31391550123,min_diff - low - 25_more_games - monthly,NBA
+Charlotte Hornets,49851.21247787254,min_diff - low - 25_more_games - monthly,NBA
+Detroit Pistons,52779.27414565101,min_diff - low - 25_more_games - monthly,NBA
+Washington Wizards,59162.320307888636,min_diff - low - 25_more_games - monthly,NBA
+New York Knicks,59972.10187629982,min_diff - low - 25_more_games - monthly,NBA
+San Antonio Spurs,62888.06425040395,min_diff - low - 25_more_games - monthly,NBA
+Utah Jazz,75499.88794316424,min_diff - low - 25_more_games - monthly,NBA
+Sacramento Kings,81908.01577278228,min_diff - low - 25_more_games - monthly,NBA
+Los Angeles Clippers,64041.371173665146,min_diff - low - 25_more_games - monthly,NBA
+New Orleans Pelicans,67863.02150173877,min_diff - low - 25_more_games - monthly,NBA
+Atlanta Hawks,54901.64714219055,min_diff - low - 25_more_games - monthly,NBA
+Oklahoma City Thunder,53896.02136093412,min_diff - low - 25_more_games - monthly,NBA
+Dallas Mavericks,61579.87239673661,min_diff - low - 25_more_games - monthly,NBA
+Houston Rockets,68758.47874460138,min_diff - low - 25_more_games - monthly,NBA
+Golden State Warriors,72352.13982803228,min_diff - low - 25_more_games - monthly,NBA
+all,1934477.5623877107,min_diff - low - 25_more_games - monthly,NBA
+Brooklyn Nets,59315.36104639384,min_diff - low - 25_more_games - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,min_diff - low - 25_more_games - post_all_star,NBA
+Cleveland Cavaliers,51843.73718024445,min_diff - low - 25_more_games - post_all_star,NBA
+Indiana Pacers,55925.05257024185,min_diff - low - 25_more_games - post_all_star,NBA
+Orlando Magic,70091.29883043923,min_diff - low - 25_more_games - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - 25_more_games - post_all_star,NBA
+Toronto Raptors,56061.62947294438,min_diff - low - 25_more_games - post_all_star,NBA
+Boston Celtics,63829.40408164328,min_diff - low - 25_more_games - post_all_star,NBA
+Chicago Bulls,54555.486446690076,min_diff - low - 25_more_games - post_all_star,NBA
+Memphis Grizzlies,62303.59097520946,min_diff - low - 25_more_games - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,min_diff - low - 25_more_games - post_all_star,NBA
+Denver Nuggets,65047.947481392024,min_diff - low - 25_more_games - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - 25_more_games - post_all_star,NBA
+Phoenix Suns,66466.70448698163,min_diff - low - 25_more_games - post_all_star,NBA
+Miami Heat,64429.04354682349,min_diff - low - 25_more_games - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,min_diff - low - 25_more_games - post_all_star,NBA
+Charlotte Hornets,49520.38049721599,min_diff - low - 25_more_games - post_all_star,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - 25_more_games - post_all_star,NBA
+Washington Wizards,54506.12556797106,min_diff - low - 25_more_games - post_all_star,NBA
+New York Knicks,59972.10187629982,min_diff - low - 25_more_games - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,min_diff - low - 25_more_games - post_all_star,NBA
+Utah Jazz,65358.64908515962,min_diff - low - 25_more_games - post_all_star,NBA
+Sacramento Kings,77473.56930599216,min_diff - low - 25_more_games - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,min_diff - low - 25_more_games - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,min_diff - low - 25_more_games - post_all_star,NBA
+Atlanta Hawks,56763.25303655616,min_diff - low - 25_more_games - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,min_diff - low - 25_more_games - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,min_diff - low - 25_more_games - post_all_star,NBA
+Houston Rockets,65897.94773628825,min_diff - low - 25_more_games - post_all_star,NBA
+Golden State Warriors,72352.13982803228,min_diff - low - 25_more_games - post_all_star,NBA
+all,1839995.334515187,min_diff - low - 25_more_games - post_all_star,NBA
+Brooklyn Nets,61559.75857629586,min_diff - low - 15_games_in_march - monthly,NBA
+Los Angeles Lakers,64527.6845592153,min_diff - low - 15_games_in_march - monthly,NBA
+Cleveland Cavaliers,53329.67393971948,min_diff - low - 15_games_in_march - monthly,NBA
+Indiana Pacers,58865.79391014979,min_diff - low - 15_games_in_march - monthly,NBA
+Orlando Magic,68170.1712843903,min_diff - low - 15_games_in_march - monthly,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - 15_games_in_march - monthly,NBA
+Toronto Raptors,56510.61443195623,min_diff - low - 15_games_in_march - monthly,NBA
+Boston Celtics,63829.40408164328,min_diff - low - 15_games_in_march - monthly,NBA
+Chicago Bulls,56005.28341039955,min_diff - low - 15_games_in_march - monthly,NBA
+Memphis Grizzlies,60298.154744378844,min_diff - low - 15_games_in_march - monthly,NBA
+Minnesota Timberwolves,64618.734046446065,min_diff - low - 15_games_in_march - monthly,NBA
+Denver Nuggets,67715.02280195635,min_diff - low - 15_games_in_march - monthly,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - 15_games_in_march - monthly,NBA
+Phoenix Suns,66466.70448698163,min_diff - low - 15_games_in_march - monthly,NBA
+Miami Heat,62979.47886386524,min_diff - low - 15_games_in_march - monthly,NBA
+Milwaukee Bucks,56480.58931979092,min_diff - low - 15_games_in_march - monthly,NBA
+Charlotte Hornets,59682.58932929468,min_diff - low - 15_games_in_march - monthly,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - 15_games_in_march - monthly,NBA
+Washington Wizards,54943.87378432003,min_diff - low - 15_games_in_march - monthly,NBA
+New York Knicks,59972.10187629982,min_diff - low - 15_games_in_march - monthly,NBA
+San Antonio Spurs,62888.06425040395,min_diff - low - 15_games_in_march - monthly,NBA
+Utah Jazz,66655.92247856098,min_diff - low - 15_games_in_march - monthly,NBA
+Sacramento Kings,77510.07257623949,min_diff - low - 15_games_in_march - monthly,NBA
+Los Angeles Clippers,65944.31324831114,min_diff - low - 15_games_in_march - monthly,NBA
+New Orleans Pelicans,64767.54807505551,min_diff - low - 15_games_in_march - monthly,NBA
+Atlanta Hawks,53721.19339407468,min_diff - low - 15_games_in_march - monthly,NBA
+Oklahoma City Thunder,52560.18364735891,min_diff - low - 15_games_in_march - monthly,NBA
+Dallas Mavericks,64206.87297389641,min_diff - low - 15_games_in_march - monthly,NBA
+Houston Rockets,70177.19526375456,min_diff - low - 15_games_in_march - monthly,NBA
+Golden State Warriors,72233.05341102774,min_diff - low - 15_games_in_march - monthly,NBA
+all,1863657.021658117,min_diff - low - 15_games_in_march - monthly,NBA
+Brooklyn Nets,61559.75857629586,min_diff - low - 15_games_in_march - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,min_diff - low - 15_games_in_march - post_all_star,NBA
+Cleveland Cavaliers,52838.67295949018,min_diff - low - 15_games_in_march - post_all_star,NBA
+Indiana Pacers,55925.05257024185,min_diff - low - 15_games_in_march - post_all_star,NBA
+Orlando Magic,68170.1712843903,min_diff - low - 15_games_in_march - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,min_diff - low - 15_games_in_march - post_all_star,NBA
+Toronto Raptors,56510.61443195623,min_diff - low - 15_games_in_march - post_all_star,NBA
+Boston Celtics,63829.40408164328,min_diff - low - 15_games_in_march - post_all_star,NBA
+Chicago Bulls,56005.28341039955,min_diff - low - 15_games_in_march - post_all_star,NBA
+Memphis Grizzlies,60298.154744378844,min_diff - low - 15_games_in_march - post_all_star,NBA
+Minnesota Timberwolves,64618.734046446065,min_diff - low - 15_games_in_march - post_all_star,NBA
+Denver Nuggets,67715.02280195635,min_diff - low - 15_games_in_march - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,min_diff - low - 15_games_in_march - post_all_star,NBA
+Phoenix Suns,66466.70448698163,min_diff - low - 15_games_in_march - post_all_star,NBA
+Miami Heat,62979.47886386524,min_diff - low - 15_games_in_march - post_all_star,NBA
+Milwaukee Bucks,56480.58931979092,min_diff - low - 15_games_in_march - post_all_star,NBA
+Charlotte Hornets,59682.58932929468,min_diff - low - 15_games_in_march - post_all_star,NBA
+Detroit Pistons,51138.28462893508,min_diff - low - 15_games_in_march - post_all_star,NBA
+Washington Wizards,54943.87378432003,min_diff - low - 15_games_in_march - post_all_star,NBA
+New York Knicks,59972.10187629982,min_diff - low - 15_games_in_march - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,min_diff - low - 15_games_in_march - post_all_star,NBA
+Utah Jazz,66655.92247856098,min_diff - low - 15_games_in_march - post_all_star,NBA
+Sacramento Kings,77510.07257623949,min_diff - low - 15_games_in_march - post_all_star,NBA
+Los Angeles Clippers,65944.31324831114,min_diff - low - 15_games_in_march - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,min_diff - low - 15_games_in_march - post_all_star,NBA
+Atlanta Hawks,57462.60377293819,min_diff - low - 15_games_in_march - post_all_star,NBA
+Oklahoma City Thunder,52560.18364735891,min_diff - low - 15_games_in_march - post_all_star,NBA
+Dallas Mavericks,64206.87297389641,min_diff - low - 15_games_in_march - post_all_star,NBA
+Houston Rockets,70177.19526375456,min_diff - low - 15_games_in_march - post_all_star,NBA
+Golden State Warriors,72233.05341102774,min_diff - low - 15_games_in_march - post_all_star,NBA
+all,1862858.3165655206,min_diff - low - 15_games_in_march - post_all_star,NBA
+Brooklyn Nets,59315.36104639384,balanced - low - basic - monthly,NBA
+Los Angeles Lakers,64527.6845592153,balanced - low - basic - monthly,NBA
+Cleveland Cavaliers,52512.09384301076,balanced - low - basic - monthly,NBA
+Indiana Pacers,55925.05257024185,balanced - low - basic - monthly,NBA
+Orlando Magic,70091.29883043923,balanced - low - basic - monthly,NBA
+Philadelphia 76ers,57106.06156964434,balanced - low - basic - monthly,NBA
+Toronto Raptors,56061.62947294438,balanced - low - basic - monthly,NBA
+Boston Celtics,63829.40408164328,balanced - low - basic - monthly,NBA
+Chicago Bulls,56005.28341039955,balanced - low - basic - monthly,NBA
+Memphis Grizzlies,65039.33820356279,balanced - low - basic - monthly,NBA
+Minnesota Timberwolves,66262.8680798337,balanced - low - basic - monthly,NBA
+Denver Nuggets,65047.947481392024,balanced - low - basic - monthly,NBA
+Portland Trail Blazers,68792.62269375104,balanced - low - basic - monthly,NBA
+Phoenix Suns,66466.70448698163,balanced - low - basic - monthly,NBA
+Miami Heat,64429.04354682349,balanced - low - basic - monthly,NBA
+Milwaukee Bucks,53540.45732735029,balanced - low - basic - monthly,NBA
+Charlotte Hornets,49851.21247787254,balanced - low - basic - monthly,NBA
+Detroit Pistons,51138.28462893508,balanced - low - basic - monthly,NBA
+Washington Wizards,53631.53105060853,balanced - low - basic - monthly,NBA
+New York Knicks,59972.10187629982,balanced - low - basic - monthly,NBA
+San Antonio Spurs,62888.06425040395,balanced - low - basic - monthly,NBA
+Utah Jazz,65358.64908515962,balanced - low - basic - monthly,NBA
+Sacramento Kings,74693.62789152944,balanced - low - basic - monthly,NBA
+Los Angeles Clippers,65279.40195977216,balanced - low - basic - monthly,NBA
+New Orleans Pelicans,64767.54807505551,balanced - low - basic - monthly,NBA
+Atlanta Hawks,54901.64714219055,balanced - low - basic - monthly,NBA
+Oklahoma City Thunder,53507.419073292935,balanced - low - basic - monthly,NBA
+Dallas Mavericks,61579.87239673661,balanced - low - basic - monthly,NBA
+Houston Rockets,65897.94773628825,balanced - low - basic - monthly,NBA
+Golden State Warriors,71595.75089471757,balanced - low - basic - monthly,NBA
+all,1840015.90974249,balanced - low - basic - monthly,NBA
+Brooklyn Nets,59315.36104639384,balanced - low - basic - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,balanced - low - basic - post_all_star,NBA
+Cleveland Cavaliers,52021.09286278146,balanced - low - basic - post_all_star,NBA
+Indiana Pacers,55925.05257024185,balanced - low - basic - post_all_star,NBA
+Orlando Magic,70091.29883043923,balanced - low - basic - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,balanced - low - basic - post_all_star,NBA
+Toronto Raptors,56061.62947294438,balanced - low - basic - post_all_star,NBA
+Boston Celtics,63829.40408164328,balanced - low - basic - post_all_star,NBA
+Chicago Bulls,56005.28341039955,balanced - low - basic - post_all_star,NBA
+Memphis Grizzlies,65039.33820356279,balanced - low - basic - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,balanced - low - basic - post_all_star,NBA
+Denver Nuggets,65047.947481392024,balanced - low - basic - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,balanced - low - basic - post_all_star,NBA
+Phoenix Suns,65097.54611252499,balanced - low - basic - post_all_star,NBA
+Miami Heat,64429.04354682349,balanced - low - basic - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,balanced - low - basic - post_all_star,NBA
+Charlotte Hornets,49851.21247787254,balanced - low - basic - post_all_star,NBA
+Detroit Pistons,51138.28462893508,balanced - low - basic - post_all_star,NBA
+Washington Wizards,53631.53105060853,balanced - low - basic - post_all_star,NBA
+New York Knicks,59972.10187629982,balanced - low - basic - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,balanced - low - basic - post_all_star,NBA
+Utah Jazz,65358.64908515962,balanced - low - basic - post_all_star,NBA
+Sacramento Kings,74693.62789152944,balanced - low - basic - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,balanced - low - basic - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,balanced - low - basic - post_all_star,NBA
+Atlanta Hawks,51285.321395313695,balanced - low - basic - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,balanced - low - basic - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,balanced - low - basic - post_all_star,NBA
+Houston Rockets,65897.94773628825,balanced - low - basic - post_all_star,NBA
+Golden State Warriors,71595.75089471757,balanced - low - basic - post_all_star,NBA
+all,1833431.0514896044,balanced - low - basic - post_all_star,NBA
+Brooklyn Nets,59315.36104639384,balanced - low - 15_more_games - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,balanced - low - 15_more_games - post_all_star,NBA
+Cleveland Cavaliers,51843.73718024445,balanced - low - 15_more_games - post_all_star,NBA
+Indiana Pacers,55925.05257024185,balanced - low - 15_more_games - post_all_star,NBA
+Orlando Magic,70091.29883043923,balanced - low - 15_more_games - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,balanced - low - 15_more_games - post_all_star,NBA
+Toronto Raptors,56061.62947294438,balanced - low - 15_more_games - post_all_star,NBA
+Boston Celtics,63829.40408164328,balanced - low - 15_more_games - post_all_star,NBA
+Chicago Bulls,54555.486446690076,balanced - low - 15_more_games - post_all_star,NBA
+Memphis Grizzlies,55097.748061643884,balanced - low - 15_more_games - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,balanced - low - 15_more_games - post_all_star,NBA
+Denver Nuggets,65047.947481392024,balanced - low - 15_more_games - post_all_star,NBA
+Portland Trail Blazers,67173.56176447592,balanced - low - 15_more_games - post_all_star,NBA
+Phoenix Suns,66466.70448698163,balanced - low - 15_more_games - post_all_star,NBA
+Miami Heat,64429.04354682349,balanced - low - 15_more_games - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,balanced - low - 15_more_games - post_all_star,NBA
+Charlotte Hornets,49520.38049721599,balanced - low - 15_more_games - post_all_star,NBA
+Detroit Pistons,51138.28462893508,balanced - low - 15_more_games - post_all_star,NBA
+Washington Wizards,54506.12556797106,balanced - low - 15_more_games - post_all_star,NBA
+New York Knicks,59972.10187629982,balanced - low - 15_more_games - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,balanced - low - 15_more_games - post_all_star,NBA
+Utah Jazz,65358.64908515962,balanced - low - 15_more_games - post_all_star,NBA
+Sacramento Kings,71877.18320681939,balanced - low - 15_more_games - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,balanced - low - 15_more_games - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,balanced - low - 15_more_games - post_all_star,NBA
+Atlanta Hawks,51285.321395313695,balanced - low - 15_more_games - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,balanced - low - 15_more_games - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,balanced - low - 15_more_games - post_all_star,NBA
+Houston Rockets,65897.94773628825,balanced - low - 15_more_games - post_all_star,NBA
+Golden State Warriors,71617.5839893849,balanced - low - 15_more_games - post_all_star,NBA
+all,1819361.5570932834,balanced - low - 15_more_games - post_all_star,NBA
+Brooklyn Nets,59315.36104639384,balanced - low - 25_more_games - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,balanced - low - 25_more_games - post_all_star,NBA
+Cleveland Cavaliers,51843.73718024445,balanced - low - 25_more_games - post_all_star,NBA
+Indiana Pacers,55925.05257024185,balanced - low - 25_more_games - post_all_star,NBA
+Orlando Magic,70091.29883043923,balanced - low - 25_more_games - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,balanced - low - 25_more_games - post_all_star,NBA
+Toronto Raptors,56061.62947294438,balanced - low - 25_more_games - post_all_star,NBA
+Boston Celtics,63829.40408164328,balanced - low - 25_more_games - post_all_star,NBA
+Chicago Bulls,54555.486446690076,balanced - low - 25_more_games - post_all_star,NBA
+Memphis Grizzlies,55097.748061643884,balanced - low - 25_more_games - post_all_star,NBA
+Minnesota Timberwolves,66262.8680798337,balanced - low - 25_more_games - post_all_star,NBA
+Denver Nuggets,65047.947481392024,balanced - low - 25_more_games - post_all_star,NBA
+Portland Trail Blazers,67173.56176447592,balanced - low - 25_more_games - post_all_star,NBA
+Phoenix Suns,66466.70448698163,balanced - low - 25_more_games - post_all_star,NBA
+Miami Heat,64429.04354682349,balanced - low - 25_more_games - post_all_star,NBA
+Milwaukee Bucks,53540.45732735029,balanced - low - 25_more_games - post_all_star,NBA
+Charlotte Hornets,49520.38049721599,balanced - low - 25_more_games - post_all_star,NBA
+Detroit Pistons,51138.28462893508,balanced - low - 25_more_games - post_all_star,NBA
+Washington Wizards,54506.12556797106,balanced - low - 25_more_games - post_all_star,NBA
+New York Knicks,59972.10187629982,balanced - low - 25_more_games - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,balanced - low - 25_more_games - post_all_star,NBA
+Utah Jazz,65358.64908515962,balanced - low - 25_more_games - post_all_star,NBA
+Sacramento Kings,71877.18320681939,balanced - low - 25_more_games - post_all_star,NBA
+Los Angeles Clippers,65279.40195977216,balanced - low - 25_more_games - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,balanced - low - 25_more_games - post_all_star,NBA
+Atlanta Hawks,51285.321395313695,balanced - low - 25_more_games - post_all_star,NBA
+Oklahoma City Thunder,53507.419073292935,balanced - low - 25_more_games - post_all_star,NBA
+Dallas Mavericks,61579.87239673661,balanced - low - 25_more_games - post_all_star,NBA
+Houston Rockets,65897.94773628825,balanced - low - 25_more_games - post_all_star,NBA
+Golden State Warriors,71617.5839893849,balanced - low - 25_more_games - post_all_star,NBA
+all,1819361.5570932834,balanced - low - 25_more_games - post_all_star,NBA
+Brooklyn Nets,61559.75857629586,balanced - low - 15_games_in_march - monthly,NBA
+Los Angeles Lakers,64527.6845592153,balanced - low - 15_games_in_march - monthly,NBA
+Cleveland Cavaliers,53329.67393971948,balanced - low - 15_games_in_march - monthly,NBA
+Indiana Pacers,58865.79391014979,balanced - low - 15_games_in_march - monthly,NBA
+Orlando Magic,68170.1712843903,balanced - low - 15_games_in_march - monthly,NBA
+Philadelphia 76ers,57106.06156964434,balanced - low - 15_games_in_march - monthly,NBA
+Toronto Raptors,56510.61443195623,balanced - low - 15_games_in_march - monthly,NBA
+Boston Celtics,63829.40408164328,balanced - low - 15_games_in_march - monthly,NBA
+Chicago Bulls,56005.28341039955,balanced - low - 15_games_in_march - monthly,NBA
+Memphis Grizzlies,61387.89157473762,balanced - low - 15_games_in_march - monthly,NBA
+Minnesota Timberwolves,64618.734046446065,balanced - low - 15_games_in_march - monthly,NBA
+Denver Nuggets,67715.02280195635,balanced - low - 15_games_in_march - monthly,NBA
+Portland Trail Blazers,68792.62269375104,balanced - low - 15_games_in_march - monthly,NBA
+Phoenix Suns,66466.70448698163,balanced - low - 15_games_in_march - monthly,NBA
+Miami Heat,62979.47886386524,balanced - low - 15_games_in_march - monthly,NBA
+Milwaukee Bucks,56480.58931979092,balanced - low - 15_games_in_march - monthly,NBA
+Charlotte Hornets,59682.58932929468,balanced - low - 15_games_in_march - monthly,NBA
+Detroit Pistons,51138.28462893508,balanced - low - 15_games_in_march - monthly,NBA
+Washington Wizards,54943.87378432003,balanced - low - 15_games_in_march - monthly,NBA
+New York Knicks,59972.10187629982,balanced - low - 15_games_in_march - monthly,NBA
+San Antonio Spurs,62888.06425040395,balanced - low - 15_games_in_march - monthly,NBA
+Utah Jazz,66655.92247856098,balanced - low - 15_games_in_march - monthly,NBA
+Sacramento Kings,74693.62789152944,balanced - low - 15_games_in_march - monthly,NBA
+Los Angeles Clippers,65944.31324831114,balanced - low - 15_games_in_march - monthly,NBA
+New Orleans Pelicans,64767.54807505551,balanced - low - 15_games_in_march - monthly,NBA
+Atlanta Hawks,53721.19339407468,balanced - low - 15_games_in_march - monthly,NBA
+Oklahoma City Thunder,52560.18364735891,balanced - low - 15_games_in_march - monthly,NBA
+Dallas Mavericks,64206.87297389641,balanced - low - 15_games_in_march - monthly,NBA
+Houston Rockets,70177.19526375456,balanced - low - 15_games_in_march - monthly,NBA
+Golden State Warriors,71476.66447771303,balanced - low - 15_games_in_march - monthly,NBA
+all,1861173.9248704512,balanced - low - 15_games_in_march - monthly,NBA
+Brooklyn Nets,61559.75857629586,balanced - low - 15_games_in_march - post_all_star,NBA
+Los Angeles Lakers,64527.6845592153,balanced - low - 15_games_in_march - post_all_star,NBA
+Cleveland Cavaliers,52838.67295949018,balanced - low - 15_games_in_march - post_all_star,NBA
+Indiana Pacers,61278.226759416284,balanced - low - 15_games_in_march - post_all_star,NBA
+Orlando Magic,68170.1712843903,balanced - low - 15_games_in_march - post_all_star,NBA
+Philadelphia 76ers,57106.06156964434,balanced - low - 15_games_in_march - post_all_star,NBA
+Toronto Raptors,56510.61443195623,balanced - low - 15_games_in_march - post_all_star,NBA
+Boston Celtics,63829.40408164328,balanced - low - 15_games_in_march - post_all_star,NBA
+Chicago Bulls,56005.28341039955,balanced - low - 15_games_in_march - post_all_star,NBA
+Memphis Grizzlies,66396.08027741157,balanced - low - 15_games_in_march - post_all_star,NBA
+Minnesota Timberwolves,64618.734046446065,balanced - low - 15_games_in_march - post_all_star,NBA
+Denver Nuggets,67715.02280195635,balanced - low - 15_games_in_march - post_all_star,NBA
+Portland Trail Blazers,68792.62269375104,balanced - low - 15_games_in_march - post_all_star,NBA
+Phoenix Suns,66466.70448698163,balanced - low - 15_games_in_march - post_all_star,NBA
+Miami Heat,62979.47886386524,balanced - low - 15_games_in_march - post_all_star,NBA
+Milwaukee Bucks,56480.58931979092,balanced - low - 15_games_in_march - post_all_star,NBA
+Charlotte Hornets,59682.58932929468,balanced - low - 15_games_in_march - post_all_star,NBA
+Detroit Pistons,51138.28462893508,balanced - low - 15_games_in_march - post_all_star,NBA
+Washington Wizards,54943.87378432003,balanced - low - 15_games_in_march - post_all_star,NBA
+New York Knicks,59972.10187629982,balanced - low - 15_games_in_march - post_all_star,NBA
+San Antonio Spurs,61779.69109908096,balanced - low - 15_games_in_march - post_all_star,NBA
+Utah Jazz,66655.92247856098,balanced - low - 15_games_in_march - post_all_star,NBA
+Sacramento Kings,74693.62789152944,balanced - low - 15_games_in_march - post_all_star,NBA
+Los Angeles Clippers,65944.31324831114,balanced - low - 15_games_in_march - post_all_star,NBA
+New Orleans Pelicans,64767.54807505551,balanced - low - 15_games_in_march - post_all_star,NBA
+Atlanta Hawks,50104.867647197825,balanced - low - 15_games_in_march - post_all_star,NBA
+Oklahoma City Thunder,52472.23763119975,balanced - low - 15_games_in_march - post_all_star,NBA
+Dallas Mavericks,64206.87297389641,balanced - low - 15_games_in_march - post_all_star,NBA
+Houston Rockets,70177.19526375456,balanced - low - 15_games_in_march - post_all_star,NBA
+Golden State Warriors,72499.04163608876,balanced - low - 15_games_in_march - post_all_star,NBA
+all,1864313.277686179,balanced - low - 15_games_in_march - post_all_star,NBA
